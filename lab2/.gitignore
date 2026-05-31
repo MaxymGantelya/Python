@@ -1,0 +1,11 @@
+# Віртуальні середовища та кеш
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# IDE конфігурації
+.vscode/
+.idea/
+.DS_Store
