@@ -1,0 +1,14 @@
+Ini, TOML
+[build-system]
+requires = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "medialib"
+version = "1.0.0"
+description = "Система управління медіа-бібліотекою з комплексною обробкою помилок"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+    {name = "Максим Гантеля"}
+]
